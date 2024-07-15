@@ -1,0 +1,8 @@
+FICTION = "Fiction"
+NON_FICTION = "Non-Fiction"
+SCIENCE_FICTION = "Science Fiction"
+MYSTERY = "Mystery"
+FANTASY = "Fantasy"
+ROMANCE = "Romance"
+THRILLER = "Thriller"
+ADVENTURE = "Adventure"
